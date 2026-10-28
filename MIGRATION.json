@@ -1,0 +1,26 @@
+[
+  {
+    "source": "Heavenfiend/OS_2025",
+    "folder": "lab01",
+    "source_default_branch": "master",
+    "source_commit": "d8b0c2ae883f08f512b6c9dc2bffa1bf48251e93",
+    "tree": "bfe683c5a1159a42c0678c54feb8e190e2a5e3d7",
+    "file_count": 9
+  },
+  {
+    "source": "Heavenfiend/OS2",
+    "folder": "lab02",
+    "source_default_branch": "main",
+    "source_commit": "042f3f1549799c5635baa42b12a7a51a5a8a8710",
+    "tree": "4f293f50a1304c28aa0ac5db11f96ca1467b14e4",
+    "file_count": 5
+  },
+  {
+    "source": "Heavenfiend/OS3",
+    "folder": "lab03",
+    "source_default_branch": "master",
+    "source_commit": "2109110ebc32708c658d25d6da97cef0df53a3f1",
+    "tree": "280dd582bd60e1661543dd8f48dcfd647227aa52",
+    "file_count": 4
+  }
+]
